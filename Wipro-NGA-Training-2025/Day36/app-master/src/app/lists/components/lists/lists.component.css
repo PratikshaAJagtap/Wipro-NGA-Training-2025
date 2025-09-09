@@ -1,0 +1,13 @@
+.list-collection > .spinner {
+  margin-top: 40px;
+}
+
+.list-collection > .spinner > .mdl-spinner {
+  width: 56px;
+  height: 56px
+}
+
+.list-collection .no-lists {
+  font-size: 2rem;
+  color: rgba(255, 255, 255, 0.5);
+}

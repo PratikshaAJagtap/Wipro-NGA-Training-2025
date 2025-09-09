@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\dip_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\dip_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\dip_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\dip_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\lsp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\lsp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\lsp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\lsp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\ocp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\ocp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\ocp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\ocp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\srp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\srp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\srp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\srp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\isp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\isp_with.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|c:\\users\\rushikesh\\desktop\\day  submission\\solidprincipledemo\\solidprincipledemo\\isp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B04E8BA-95E6-4DCA-9605-A0A38AFBED24}|SolidPrincipleDemo\\SolidPrincipleDemo.csproj|solutionrelative:solidprincipledemo\\isp_without.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIP_With.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\DIP_With.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\DIP_With.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\DIP_With.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\DIP_With.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:03:15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DIP_Without.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\DIP_Without.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\DIP_Without.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\DIP_Without.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\DIP_Without.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:02:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LSP_Without.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\LSP_Without.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\LSP_Without.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\LSP_Without.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\LSP_Without.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:00:57.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OCP_Without.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\OCP_Without.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\OCP_Without.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\OCP_Without.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\OCP_Without.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:58:43.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\Program.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:07:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LSP_With.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\LSP_With.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\LSP_With.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\LSP_With.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\LSP_With.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:01:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SRP_Without.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\SRP_Without.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\SRP_Without.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\SRP_Without.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\SRP_Without.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:56:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OCP_With.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\OCP_With.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\OCP_With.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\OCP_With.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\OCP_With.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:59:09.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISP_With.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\ISP_With.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\ISP_With.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\ISP_With.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\ISP_With.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:32:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SRP_With.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\SRP_With.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\SRP_With.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\SRP_With.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\SRP_With.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:56:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISP_Without.cs",
+              "DocumentMoniker": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\ISP_Without.cs",
+              "RelativeDocumentMoniker": "SolidPrincipleDemo\\ISP_Without.cs",
+              "ToolTip": "C:\\Users\\rushikesh\\Desktop\\Day  Submission\\SolidPrincipleDemo\\SolidPrincipleDemo\\ISP_Without.cs",
+              "RelativeToolTip": "SolidPrincipleDemo\\ISP_Without.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:31:45.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

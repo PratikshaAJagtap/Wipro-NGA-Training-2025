@@ -1,0 +1,37 @@
+/* General styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling */
+header h1 {
+  font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+
+  .table {
+    font-size: 0.9rem;
+  }
+
+  /* Make flex items stack on small devices */
+  .flex-fill {
+    flex: 1 1 100%;
+    min-width: 100% !important;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Optional padding for cards in Flexbox layout */
+.flex-fill {
+  transition: transform 0.2s ease-in-out;
+}
+.flex-fill:hover {
+  transform: scale(1.02);
+}

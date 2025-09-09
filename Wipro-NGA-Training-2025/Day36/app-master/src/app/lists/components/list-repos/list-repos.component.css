@@ -1,0 +1,35 @@
+.list-repos {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+
+.list-repos .no-list-repos {
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.list-repos .repos-sort {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+}
+
+.is-small-screen .list-repos .repos-sort {
+  position: relative;
+  top: -8px;
+  right: 0;
+}
+
+.list-repos .repos-sort .mdl-button {
+  color: rgba(255,255,255,0.8);
+}
+
+.list-repos .repos-sort .mdl-button .icon {
+  font-size: 16px;
+  margin-left: 8px;
+}
+
+.list-repos > .mdl-grid--no-spacing > .mdl-cell:not(:first-child) {
+  margin-top: 16px;
+}

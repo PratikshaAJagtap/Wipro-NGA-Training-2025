@@ -1,0 +1,25 @@
+.list-search-bar {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.list-search-bar > input {
+  width: 100%;
+  font-size: 1.6rem;
+  padding: 16pt;
+  border: 2px;
+  outline: none;
+  background: rgba(0, 0, 0, 0.1);
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.list-search-bar > input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+  opacity: 1;
+}
+
+.list-search-bar > input:focus {
+  background: rgba(0, 0, 0, 0.2);
+  color: rgba(255, 255, 255, 0.7);
+}
